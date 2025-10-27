@@ -1,5 +1,7 @@
 # Contest Calendar MCP Server - Refactored Structure
 
+<img width="1606" height="658" alt="image" src="https://github.com/user-attachments/assets/c9feb644-468b-44a8-881d-742388fd9642" />
+
 ## Project Structure
 
 ```
